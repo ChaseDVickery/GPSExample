@@ -1,0 +1,5 @@
+Chase Vickery
+CS498
+
+This document is meant to test git functionality in the GPSExample repository
+
